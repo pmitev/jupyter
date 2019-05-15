@@ -1,0 +1,6 @@
+gawk
+vim
+nano
+mc
+cython
+sqlite
