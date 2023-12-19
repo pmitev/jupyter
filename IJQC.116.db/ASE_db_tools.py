@@ -532,7 +532,7 @@ def EF_H2O_bader(structure_in, core_charges, verbose=True):
 #-# 
   from copy import deepcopy
   from ase.neighborlist import NeighborList
-  from pymatgen import Lattice, Structure
+  from pymatgen.core import Lattice, Structure
   from pymatgen.analysis import ewald
 
   structure= deepcopy(structure_in)
@@ -608,7 +608,7 @@ def EF_H2O_DDEC6(structure_in, verbose=True):
 #-# 
   from copy import deepcopy
   from ase.neighborlist import NeighborList
-  from pymatgen import Lattice, Structure
+  from pymatgen.core import Lattice, Structure
   from pymatgen.analysis import ewald
 
   structure= deepcopy(structure_in)
@@ -680,7 +680,7 @@ def EF_H2O_wannier(structure_in, core_charges, verbose=True):
   from copy import deepcopy   
   from ase.neighborlist import NeighborList
   from ase import Atom, Atoms
-  from pymatgen import Lattice, Structure
+  from pymatgen.core import Lattice, Structure
   from pymatgen.analysis import ewald
 
   structure= deepcopy(structure_in)
@@ -788,7 +788,7 @@ def find_structure_symmetry(structure, symprec= 1.e-5, verbose= True):
 def Ewald_energy(structure_in, core_charges, verbose=True):
 #-#
   from copy import deepcopy
-  from pymatgen import Lattice, Structure
+  from pymatgen.core import Lattice, Structure
   from pymatgen.analysis import ewald
   
   structure= deepcopy(structure_in)
