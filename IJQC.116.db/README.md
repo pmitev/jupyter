@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pmitev/jupyter/master?filepath=IJQC.116.db%2FIJQC.116.properties.ipynb)
 # Folder contents:
 
- - **I[JQC.116.db](https://github.com/pmitev/jupyter/tree/master/IJQC.116.db)** - contains an example Jupyter notebook to reproduce the results published in "*H-bond and electric field correlations for water in highly hydrated crystals*", Anik Sen, Pavlin D. Mitev, Anders Eriksson, and Kersti Hermansson, International Journal of Quantum Chemistry, **116**, ( 2016), 67-80 **DOI**: [10.1002/qua.25022](http://onlinelibrary.wiley.com/doi/10.1002/qua.25022/abstract)
+ - **[IJQC.116.db](https://github.com/pmitev/jupyter/tree/master/IJQC.116.db)** - contains an example Jupyter notebook to reproduce the results published in "*H-bond and electric field correlations for water in highly hydrated crystals*", Anik Sen, Pavlin D. Mitev, Anders Eriksson, and Kersti Hermansson, International Journal of Quantum Chemistry, **116**, ( 2016), 67-80 **DOI**: [10.1002/qua.25022](http://onlinelibrary.wiley.com/doi/10.1002/qua.25022/abstract)
 
 ---
 
